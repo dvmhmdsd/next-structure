@@ -87,3 +87,10 @@ To create new component, see where it will be located:
 
 - If it's shared across multiple modules, then put it inside `shared/components/` folder
 - If it's specific to a module then put it inside the `components/` folder of that module
+
+## Dependencies
+
+- `Next.js`
+- `Jotai`
+- `Typescript`
+- `Material UI`
