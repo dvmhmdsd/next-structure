@@ -1,4 +1,4 @@
-import { btnStyle } from "./styles";
+import { btnStyle } from "./styles.css";
 import styles from "./button.module.css";
 
 export default function Button() {
